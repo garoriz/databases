@@ -1,0 +1,4 @@
+CREATE TABLE cities (
+uniqueId SERIAL PRIMARY KEY,
+name CHARACTER VARYING(255)
+);

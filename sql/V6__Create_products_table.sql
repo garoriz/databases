@@ -1,0 +1,5 @@
+CREATE TABLE products (
+uniqueId SERIAL PRIMARY KEY,
+name CHARACTER VARYING(30),
+count INTEGER
+);
